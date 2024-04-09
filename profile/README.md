@@ -18,8 +18,12 @@
   </a>
 </p>
 
-**Visitor our Itch page!**
-<iframe frameborder="0" src="https://itch.io/embed/2368971?bg_color=000000&amp;fg_color=ffffff&amp;link_color=b563e2&amp;border_color=bd4500" width="552" height="167"><a href="https://rheavenstudio.itch.io/heaven-studio">Heaven Studio by RHeavenStudio</a></iframe>
+**Visit our Itch page!**
+<p>
+  <a href="https://discord.gg/2kdZ8kFyEN">
+    <iframe frameborder="0" src="https://itch.io/embed/2368971?bg_color=000000&amp;fg_color=ffffff&amp;link_color=b563e2&amp;border_color=bd4500" width="552" height="167"><a href="https://rheavenstudio.itch.io/heaven-studio">Heaven Studio by RHeavenStudio</a></iframe>
+  </a>
+</p>
 
 ### Legal information:
 Rhythm Heaven is the intellectual property of Nintendo. This program is NOT endorsed nor sponsored in any way by Nintendo. All used properties of Nintendo (such as names, audio, graphics, etc.) in this software are not intended to maliciously infringe trademark rights. All other trademarks and assets are property of their respective owners. This is a free community project available for others to use and contribute to, without charge. Source code is licensed under the MIT license.
