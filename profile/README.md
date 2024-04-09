@@ -4,6 +4,8 @@
 
 #### Main repository: [Heaven Studio](https://github.com/RHeavenStudio/HeavenStudio)
 
+#### Itch.io page: [Heaven Studio](https://rheavenstudio.itch.io/heaven-studio)
+
 #### Documentation: [Heaven Studio docs](https://rheavenstudio.github.io)
 
 
@@ -15,13 +17,6 @@
 <p>
   <a href="https://discord.gg/2kdZ8kFyEN">
     <img src="https://img.shields.io/discord/945450048832040980?color=5865F2&label=Heaven%20Studio&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</p>
-
-**Visit our Itch page!**
-<p>
-  <a href="https://rheavenstudio.itch.io/heaven-studio">
-    <img src="https://itch.io/embed/2368971?bg_color=000000&amp;fg_color=ffffff&amp;link_color=b563e2&amp;border_color=bd4500" alt="Itch">
   </a>
 </p>
 
