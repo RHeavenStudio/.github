@@ -4,7 +4,7 @@
 
 #### Main repository: [Heaven Studio](https://github.com/RHeavenStudio/HeavenStudio)
 
-#### Itch.io page: [Heaven Studio](https://rheavenstudio.itch.io/heaven-studio)
+#### Itch.io page: [Heaven Studio on Itch](https://rheavenstudio.itch.io/heaven-studio)
 
 #### Documentation: [Heaven Studio docs](https://rheavenstudio.github.io)
 
