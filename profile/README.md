@@ -20,8 +20,8 @@
 
 **Visit our Itch page!**
 <p>
-  <a href="https://discord.gg/2kdZ8kFyEN">
-    <iframe frameborder="0" src="https://itch.io/embed/2368971?bg_color=000000&amp;fg_color=ffffff&amp;link_color=b563e2&amp;border_color=bd4500" width="552" height="167"><a href="https://rheavenstudio.itch.io/heaven-studio">Heaven Studio by RHeavenStudio</a></iframe>
+  <a href="https://rheavenstudio.itch.io/heaven-studio">
+    <img src="https://itch.io/embed/2368971?bg_color=000000&amp;fg_color=ffffff&amp;link_color=b563e2&amp;border_color=bd4500" alt="Itch">
   </a>
 </p>
 
