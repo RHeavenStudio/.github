@@ -1,12 +1,6 @@
 ![banner](https://github.com/RHeavenStudio/.github/blob/main/profile/HSBanner.png?raw=true)
 
-### Welcome to Heaven Studio! A (WIP) Rhythm Heaven level editor made in Unity.
-
-#### Main repository: [Heaven Studio](https://github.com/RHeavenStudio/HeavenStudio)
-
-#### Itch.io page: [Heaven Studio on Itch](https://rheavenstudio.itch.io/heaven-studio)
-
-#### Documentation: [Heaven Studio docs](https://rheavenstudio.github.io)
+### Welcome to Heaven Studio! We develop utilities for Unity-based rhythm games.
 
 
 **Follow us on social media:** <a href="https://twitter.com/rheavenstudio">
@@ -20,6 +14,7 @@
   </a>
 </p>
 
+## Former Heaven Studio Project info
 ### Legal information:
 Rhythm Heaven is the intellectual property of Nintendo. This program is NOT endorsed nor sponsored in any way by Nintendo. All used properties of Nintendo (such as names, audio, graphics, etc.) in this software are not intended to maliciously infringe trademark rights. All other trademarks and assets are property of their respective owners. This is a free community project available for others to use and contribute to, without charge. Source code is licensed under the MIT license.
 
